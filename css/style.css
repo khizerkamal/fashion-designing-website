@@ -141,7 +141,14 @@
     height: 100%;
 }
 /* ---OFFER--- */
-
+.offer{
+    background-image: url(../images/photo.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.row{
+    margin: initial !important;
+}
 
 
 
