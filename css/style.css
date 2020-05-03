@@ -149,9 +149,28 @@
 .row{
     margin: initial !important;
 }
-
-
-
+.subscribe{
+    margin-top: 80px;
+    max-width: 500px;
+    padding: 60px;
+    background: #ffffff8c;
+    margin-bottom: 20px;
+}
+.subscribe a{
+    width: 100px;
+    display: block;
+    color: white !important;
+    text-decoration: none;
+    background-color: #000;
+    padding: 5px;
+    text-align: center;
+}
+.offer img{
+    width: 300px;
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: -100px;
+}
 
 
 
